@@ -75,16 +75,17 @@ python3 generate_script.py
 
 <img width="1331" height="882" alt="image" src="https://github.com/user-attachments/assets/2228c116-eb0f-43c8-9ba7-4e5ca60e0a23" />
 
-### 🧾 Отслеживаем прогресс тут  https://dashboard.pluralis.ai  по имени аккаунта huggingface или в логах пакажет
+### 🧾 Отслеживаем прогресс тут  https://dashboard.pluralis.ai  по имени аккаунта huggingface или в логах покажет
 
 ### 💾️ Также сохраните файл private.key в директории node0
 
 
 # 💻️ Ссылки 
-
-
-
-
-
+- 📦 [GitHub репозиторий](https://github.com/PluralisResearch/node0)  
+- 💬 [Discord сообщество](https://discord.gg/GD2RGdYGKQ)  
+- 🐦 [X (Twitter)](https://x.com/pluralishq)  
+- 🌐 [Официальный сайт](https://pluralis.ai)  
+- 📊 [Dashboard](https://dashboard.pluralis.ai)  
+- 📰 [Блог](https://blog.pluralis.ai/)  
 
 В ДС ветке 🧰️join-run https://discord.com/channels/1298050335478255646/1417510591416893461  пишем команду !join-run бот выдаст роль Node-0-7.5B
