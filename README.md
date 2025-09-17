@@ -16,7 +16,7 @@ Pluralis проводит фундаментальные исследовани�
 - 🌐 [Официальный сайт](https://pluralis.ai)  
 - 📊 [Dashboard](https://dashboard.pluralis.ai)  
 - 📰 [Блог](https://blog.pluralis.ai/)  
-- 📈 [CryptoRank — Pluralis Research](https://cryptorank.io/drophunting/pluralis-research-activity765)  
+- 📈 [CryptoRank — Pluralis Research](https://cryptorank.io/price/pluralis-research)  
 
 ## Выбор и аренда сервака
 
